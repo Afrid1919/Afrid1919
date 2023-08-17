@@ -1,11 +1,17 @@
 <h1 align="center">Hi 👋, I'm Afrid Pathan</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on **Podcast Streaming web app**
+- 🔭 I’m currently working on [Quiz System web app](https://github.com/Afrid1919/Quiz_System)
 
 - 🌱 I’m currently learning **React JS**
 
+- 👨‍💻 All of my projects are available at [https://github.com/Afrid1919?tab=repositories](https://github.com/Afrid1919?tab=repositories)
+
+- 💬 Ask me about **react and node js**
+
 - 📫 How to reach me **afridpathan1908@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1gNLcqIotd_SzWfGajBuTXywjUEwXzP1B/view?usp=drive_link](https://drive.google.com/file/d/1gNLcqIotd_SzWfGajBuTXywjUEwXzP1B/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
