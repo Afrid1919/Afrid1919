@@ -1,8 +1,11 @@
+
+![github-header-image (1)](https://github.com/Afrid1919/Afrid1919/assets/132122733/408e790b-a04d-453c-915d-bf25a22640ed)
+
+
+<h3 align="center">A passionate frontend developer from India</h3>
+
 ![MyGif](https://github.com/Afrid1919/Afrid1919/assets/132122733/d00a09a0-6f49-46f2-a432-d490927a2749)
 
-<h1 align="center">Hi 👋, I'm Afrid ![github-header-image (1)](https://github.com/Afrid1919/Afrid1919/assets/132122733/7aa39c24-c296-4483-9beb-cb46862209bd)
-Pathan</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
 
 - 🔭 I’m currently working on [Quiz System web app](https://github.com/Afrid1919/Quiz_System)
 
