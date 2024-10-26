@@ -1,5 +1,5 @@
 
-![github-header-image (1)](https://github.com/Afrid1919/Afrid1919/assets/132122733/408e790b-a04d-453c-915d-bf25a22640ed)
+
 
 
 <h3 align="center">A passionate Java developer from India</h3>
@@ -7,13 +7,13 @@
 ![MyGif](https://github.com/Afrid1919/Afrid1919/assets/132122733/d00a09a0-6f49-46f2-a432-d490927a2749)
 
 
-- 🔭 I’m currently working on [Quiz System web app](https://github.com/Afrid1919/Quiz_System)
+- 🔭 I’m currently working on [Eclinic web app]
 
-- 🌱 I’m currently learning **React JS**
+- 🌱 I’m currently learning **JavaScript**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Afrid1919?tab=repositories](https://github.com/Afrid1919?tab=repositories)
 
-- 💬 Ask me about **react and node js**
+- 💬 Ask me about **Java & SpringBoot**
 
 - 📫 How to reach me **afridpathan1908@gmail.com**
 
