@@ -9,8 +9,6 @@
 
 - 🔭 I’m currently working on [Eclinic web app]
 
-- 🌱 I’m currently learning **JavaScript**
-
 - 👨‍💻 All of my projects are available at [https://github.com/Afrid1919?tab=repositories](https://github.com/Afrid1919?tab=repositories)
 
 - 💬 Ask me about **Java & SpringBoot**
